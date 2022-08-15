@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CompassApp</string>
+    <string name="name">Compass</string>
+    <string name="imageDesc">Compass image</string>
+</resources>
